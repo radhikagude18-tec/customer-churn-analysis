@@ -43,7 +43,7 @@ The dataset includes customer information such as:
 - `TotalCharges`
 - `ContractType`
 - `PaymentMethod`
-- `Churn` (Yes/No)
+- `Churn`
   
 
 ---
@@ -64,9 +64,4 @@ The dataset includes customer information such as:
   - Churn by Payment Method
 
 ---
-
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Customer-Churn-Analysis.git
 
